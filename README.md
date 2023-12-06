@@ -32,6 +32,7 @@
 
 <h1>Lenguages and Tools</h1>
 <div id="iconos">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="">    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="HTML5" alt="HTML" 
+              width="40" heigth="40">    
 </div>
 
