@@ -1,3 +1,3 @@
 <div>
-  <img src="http://leahkonen.com/tag/writing-2/">
+  <img src="https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif">
 </div>
