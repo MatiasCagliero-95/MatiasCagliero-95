@@ -29,3 +29,9 @@
 -📧 Email: matucagliero95@gmail.com
 
 -📞 Phone: +54 2281461224. Let's build something extraordinary together! ✨
+
+<h1>Lenguages and Tools</h1>
+<div id="iconos">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="">    
+</div>
+
