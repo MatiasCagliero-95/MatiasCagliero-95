@@ -30,9 +30,22 @@
 
 -📞 Phone: +54 2281461224. Let's build something extraordinary together! ✨
 
-<h1>Lenguages and Tools</h1>
 <div id="iconos">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="HTML5" alt="HTML" 
-              width="40" heigth="40">    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="React" alt="HTML" 
+              width="40" heigth="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" tittle="HTML5" alt="HTML" 
+              width="40" heigth="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" tittle="CSS" alt="HTML" 
+              width="40" heigth="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" tittle="JS" alt="HTML" 
+              width="40" heigth="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" tittle="TS" alt="HTML" 
+              width="40" heigth="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" tittle="NEST" alt="HTML" 
+              width="40" heigth="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" tittle="JEST" alt="HTML" 
+              width="40" heigth="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="SQL" alt="HTML" 
+              width="40" heigth="40">  
 </div>
 
