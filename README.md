@@ -20,6 +20,7 @@
 -🧪 Playing with Jest, the wizard of tests to ensure quality.
 
 -🗝️ Navigating JWT, the master key for secure authentication.
+
 -Residence:
 
 -🌍 Rooted in the land of tango and barbecue: Argentina!
