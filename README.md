@@ -49,9 +49,3 @@
               width="40" heigth="40">  
 </div>
 
----
-### Stats : 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatiasCagliero-95&theme=transparent)](https://git.io/streak-stats)
